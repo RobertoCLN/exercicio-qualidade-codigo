@@ -29,7 +29,3 @@ Demonstrar na prática conceitos como:
 - Eficiência
 - Escalabilidade
 - Segurança
-
-## ▶ Como Executar
-
-Instale as dependências:
